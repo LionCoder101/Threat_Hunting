@@ -17,3 +17,5 @@ Check 6 -          recent (command) if deleted run this command ==>
 
 
 Check 7 -         Use HackBar or System Infomer
+
+Check 8 -         StartUp
